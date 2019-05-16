@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "New Unity Project",
+"dataUrl": "Traps.data.unityweb",
+"asmCodeUrl": "Traps.asm.code.unityweb",
+"asmMemoryUrl": "Traps.asm.memory.unityweb",
+"asmFrameworkUrl": "Traps.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#292728"
+}
